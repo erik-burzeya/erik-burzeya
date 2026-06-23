@@ -1,4 +1,6 @@
-![Uploading 441608bd-daa3-42a4-bac8-3cf6b8d9971a.png…]()
+<p align="center">
+  <img src="./header-github-erik-burzeya-01.png" alt="My profile header" width="100%">
+</p>
 
 
 ## Hi there 👋
