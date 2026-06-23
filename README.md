@@ -3,7 +3,8 @@
 </p>
 
 
-## Erik J. Burzeya
+## Erik J. Burzeya <img src="Icons.001.png" width="20" height="20" valign="middle">
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
