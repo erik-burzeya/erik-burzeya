@@ -44,4 +44,4 @@ Learning programming through books, coursework (Harvard CS50P), small software p
 
 ## Contact
 - GitHub: @erik-burzeya
-
+<!--- - LinkedIn: [erik-burzeya](https://www.linkedin.com/in/erik-burzeya/) --->
