@@ -39,7 +39,7 @@ Learning programming through books, coursework (Harvard CS50P), small software p
 
 ### Language Learning
 - Studying Chinese (HSK-oriented)
-- - Maintaining and improving my Spanish
+- Maintaining and improving my Spanish
 - Recently completed the Latinum
 
 ## Contact
