@@ -3,7 +3,7 @@
 </p>
 
 
-## Erik J. Burzeya <img src="Icons.001.png" width="20" height="20" valign="middle">
+## Erik J. Burzeya <img src="Icons_1.004.png" width="20" height="20" valign="middle">
 
 
 - 🔭 I’m currently working on ...
