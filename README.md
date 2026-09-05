@@ -7,12 +7,11 @@
 Student · Philosophy · Language · Computation
 <br>
 
-> Exploring philosophy, language, science and computation.
 
 
 ## About Me
 
-I am a student in Germany with interests at the intersection of:
+I am a computer science student in Germany with interests at the intersection of:
 
 - Philosophy
 - Linguistics
@@ -20,6 +19,8 @@ I am a student in Germany with interests at the intersection of:
 - Logic
 
 <!--- For more information on my projects visit my [portfolio-garden](https://portfolio-garden-burzeya.vercel.app). --->
+
+> Exploring philosophy, language, science and computation.
 
 ## Current Focus
 
