@@ -4,10 +4,9 @@
 
 
 ## Erik J. Burzeya <img src="Icons_1.004.png" width="20" height="20" valign="middle">
-Student · Philosophy · Language · Computation
+CS Student · Philosophy · Language · Computation · Art
 <br>
 
-> Exploring philosophy, language, science and computation.
 
 ## About Me
 
@@ -17,17 +16,15 @@ I am a computer science student in Germany with interests at the intersection of
 - Linguistics
 - Computer Science
 - Logic
-
+- Art
 <!--- For more information on my projects visit my [portfolio-garden](https://portfolio-garden-burzeya.vercel.app). --->
 
 
 ## Current Focus
 
-- CS50 and programming fundamentals
+- Programming fundamentals (university)
 - Philosophy and philosophy of language
 - Formal reasoning and logic
-- Chinese (HSK-oriented study)
-- Academic preparation for university applications
 
 ## Projects
 
@@ -39,7 +36,7 @@ Learning programming through books, coursework (Harvard CS50P), small software p
 
 ### Language Learning
 - Studying Chinese (HSK-oriented)
-- Maintaining and improving my Spanish
+- Improving my Spanish
 - Recently completed the Latinum
 
 ## Contact
