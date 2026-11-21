@@ -4,7 +4,7 @@
 
 
 ## Erik J. Burzeya <img src="Icons_1.004.png" width="20" height="20" valign="middle">
-CS Student · Philosophy · Language · Computation · Art
+CS Student · Philosophy · Language · Art
 <br>
 
 
